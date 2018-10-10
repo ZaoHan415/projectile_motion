@@ -1,0 +1,3 @@
+- A very very very simple program with UI, implemented a 2-dimensional ball in gravity field
+- Learn to use QSlider,QPainter and also the signals & slots mechanism in Qt
+- Hope that I'll get better at Object-Oriented  programming,still TOOOOO much to learn
